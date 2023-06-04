@@ -3,7 +3,7 @@
 
 This GitHub repository contains a collection of code assignments from the CIS 22B class at De Anza College. The assignments in this repository showcase the programming skills and knowledge gained throughout the course.
 
-The CIS 22B class focuses on programming concepts, such as pointers, linked list, and OOP using C++. 
+The CIS 22B class focuses on programming concepts, such as array, files, pointers, linked list, and OOP using C++. 
 
 By exploring this repository, you will find a wide range of assignments, each demonstrating different aspects of software development. These assignments serve as valuable learning resources for students studying computer science or anyone interested in understanding fundamental programming principles.
 
